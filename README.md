@@ -11,4 +11,4 @@
 
 ## License
 
-MIT @ [wangshub](github.com/wangshub)
+MIT @ [wangshub](https://github.com/wangshub)
